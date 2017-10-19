@@ -1,0 +1,9 @@
+Building Nubescoin
+
+See doc/readme-qt.rst for instructions on building Nubescoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Nubescoin.
+
+See doc/build-*.txt for instructions on building nubescoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Nubescoin.
